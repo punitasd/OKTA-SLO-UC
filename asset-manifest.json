@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.00739207.css",
-    "main.js": "/static/js/main.5122ab5e.js",
-    "Dashboard.js": "/static/js/Dashboard.5bc2d82f.chunk.js",
-    "usermanagement.css": "/static/css/usermanagement.8fcf6f9e.chunk.css",
-    "usermanagement.js": "/static/js/usermanagement.c810a118.chunk.js",
-    "static/js/947.e5c9bdbb.chunk.js": "/static/js/947.e5c9bdbb.chunk.js",
-    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
-    "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.f2fa8f369db189665539.ttf",
-    "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.2dec2f24e3bdf2c6862e.ttf",
-    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
-    "static/media/SourceSansPro-Regular.eot": "/static/media/SourceSansPro-Regular.3f78d4b2be4bebcc523e.eot",
-    "static/media/SourceSansPro-SemiBold.eot": "/static/media/SourceSansPro-SemiBold.a2081b36b973adaa27ea.eot",
-    "static/media/SourceSansPro-Bold.eot": "/static/media/SourceSansPro-Bold.2612c3bf09b5376ee9aa.eot",
-    "static/media/arcserve-logo-black.png": "/static/media/arcserve-logo-black.f877fd191ae614e0150b.png",
-    "index.html": "/index.html",
-    "main.00739207.css.map": "/static/css/main.00739207.css.map",
-    "main.5122ab5e.js.map": "/static/js/main.5122ab5e.js.map",
-    "Dashboard.5bc2d82f.chunk.js.map": "/static/js/Dashboard.5bc2d82f.chunk.js.map",
-    "usermanagement.8fcf6f9e.chunk.css.map": "/static/css/usermanagement.8fcf6f9e.chunk.css.map",
-    "usermanagement.c810a118.chunk.js.map": "/static/js/usermanagement.c810a118.chunk.js.map",
-    "947.e5c9bdbb.chunk.js.map": "/static/js/947.e5c9bdbb.chunk.js.map"
+    "main.css": "/OKTA-SLO-UC/static/css/main.0bdcb021.css",
+    "main.js": "/OKTA-SLO-UC/static/js/main.f0e15827.js",
+    "Dashboard.js": "/OKTA-SLO-UC/static/js/Dashboard.5bc2d82f.chunk.js",
+    "usermanagement.css": "/OKTA-SLO-UC/static/css/usermanagement.8fcf6f9e.chunk.css",
+    "usermanagement.js": "/OKTA-SLO-UC/static/js/usermanagement.c810a118.chunk.js",
+    "static/js/947.e5c9bdbb.chunk.js": "/OKTA-SLO-UC/static/js/947.e5c9bdbb.chunk.js",
+    "static/media/SourceSansPro-Regular.ttf": "/OKTA-SLO-UC/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
+    "static/media/SourceSansPro-SemiBold.ttf": "/OKTA-SLO-UC/static/media/SourceSansPro-SemiBold.f2fa8f369db189665539.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/OKTA-SLO-UC/static/media/SourceSansPro-Bold.2dec2f24e3bdf2c6862e.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/OKTA-SLO-UC/static/media/SourceSansPro-Light.9bbfd7cb5e722de4b9f4.ttf",
+    "static/media/SourceSansPro-Regular.eot": "/OKTA-SLO-UC/static/media/SourceSansPro-Regular.3f78d4b2be4bebcc523e.eot",
+    "static/media/SourceSansPro-SemiBold.eot": "/OKTA-SLO-UC/static/media/SourceSansPro-SemiBold.a2081b36b973adaa27ea.eot",
+    "static/media/SourceSansPro-Bold.eot": "/OKTA-SLO-UC/static/media/SourceSansPro-Bold.2612c3bf09b5376ee9aa.eot",
+    "static/media/arcserve-logo-black.png": "/OKTA-SLO-UC/static/media/arcserve-logo-black.f877fd191ae614e0150b.png",
+    "index.html": "/OKTA-SLO-UC/index.html",
+    "main.0bdcb021.css.map": "/OKTA-SLO-UC/static/css/main.0bdcb021.css.map",
+    "main.f0e15827.js.map": "/OKTA-SLO-UC/static/js/main.f0e15827.js.map",
+    "Dashboard.5bc2d82f.chunk.js.map": "/OKTA-SLO-UC/static/js/Dashboard.5bc2d82f.chunk.js.map",
+    "usermanagement.8fcf6f9e.chunk.css.map": "/OKTA-SLO-UC/static/css/usermanagement.8fcf6f9e.chunk.css.map",
+    "usermanagement.c810a118.chunk.js.map": "/OKTA-SLO-UC/static/js/usermanagement.c810a118.chunk.js.map",
+    "947.e5c9bdbb.chunk.js.map": "/OKTA-SLO-UC/static/js/947.e5c9bdbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00739207.css",
-    "static/js/main.5122ab5e.js"
+    "static/css/main.0bdcb021.css",
+    "static/js/main.f0e15827.js"
   ]
 }
